@@ -1,3 +1,3 @@
 # stevenyslee-brutalist
 
-Brualist styled contact info website at stevenyslee.com
+Brutalist styled contact info website at stevenyslee.com
